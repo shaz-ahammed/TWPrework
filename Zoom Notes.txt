@@ -1,0 +1,9 @@
+mute everyone - alt + M or cmd + ctrl + M
+hide floating control panal while sharing screen - go to more in the panal and hide
+		press esc to show it again
+turn off video when joining a meeting by default from settings
+Virtual background
+schedule zoom meeting in google calender by adding zoom extension
+share a new window using new share
+pause share - Alt + P
+Annotation

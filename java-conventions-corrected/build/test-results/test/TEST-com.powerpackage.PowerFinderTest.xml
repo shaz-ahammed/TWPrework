@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.powerpackage.PowerFinderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-23T01:16:52" hostname="SHAZ" time="0.08">
+  <properties/>
+  <testcase name="testThreePowerTwo()" classname="com.powerpackage.PowerFinderTest" time="0.057"/>
+  <testcase name="testOnePowerOne()" classname="com.powerpackage.PowerFinderTest" time="0.003"/>
+  <testcase name="testTwoPowerOne()" classname="com.powerpackage.PowerFinderTest" time="0.004"/>
+  <testcase name="testTwoPowerTwo()" classname="com.powerpackage.PowerFinderTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
