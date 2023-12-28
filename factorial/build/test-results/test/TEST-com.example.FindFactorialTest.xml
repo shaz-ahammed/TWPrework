@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.FindFactorialTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-25T04:28:57" hostname="SHAZ" time="0.06">
+  <properties/>
+  <testcase name="testZeroFactorial()" classname="com.example.FindFactorialTest" time="0.043"/>
+  <testcase name="testSevenFactorial()" classname="com.example.FindFactorialTest" time="0.002"/>
+  <testcase name="testTwoFactorial()" classname="com.example.FindFactorialTest" time="0.002"/>
+  <testcase name="testOneFactorial()" classname="com.example.FindFactorialTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
